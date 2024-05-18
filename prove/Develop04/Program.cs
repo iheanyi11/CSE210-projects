@@ -1,5 +1,6 @@
 using System;
 
+// To show creativity and exceed the requirements, I added an extra activity and added the functionalities for it
 class Program
 {
     static void Main(string[] args)
