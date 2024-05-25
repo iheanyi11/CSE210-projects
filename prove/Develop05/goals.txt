@@ -1,0 +1,4 @@
+0
+Give a talk|Speak in sacrament meeting when asked|False
+Study the scriptures|Study for atleast 10 minutes|False
+Attend the temple|Attend and perfrom any ordinance|False|50|3|500
